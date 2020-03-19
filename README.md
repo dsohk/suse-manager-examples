@@ -1,2 +1,5 @@
-# suse-manager-examples
-Automation with SUSE Manager
+# Automation Scripting for SUSE Manager
+
+This repositories contain examples of automation scripts for SUSE Manager.
+
+
